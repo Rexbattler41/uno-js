@@ -1,0 +1,41 @@
+.dobbelsteen{
+    float: left;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+
+    border-radius: 14px;
+}
+
+.color1{
+    background-color: aquamarine;
+}
+
+.color2{
+    background-color: aqua;
+}
+
+.side1{
+    background-image: url(./images/dice-1.png);
+    background-size: contain;
+}
+.side2{
+    background-image: url(./images/dice-2.png);
+    background-size: contain;
+}
+.side3{
+    background-image: url(./images/dice-3.png);
+    background-size: contain;
+}
+.side4{
+    background-image: url(./images/dice-4.png);
+    background-size: contain;
+}
+.side5{
+    background-image: url(./images/dice-5.png);
+    background-size: contain;
+}
+.side6{
+    background-image: url(./images/dice-6.png);
+    background-size: contain;
+}
