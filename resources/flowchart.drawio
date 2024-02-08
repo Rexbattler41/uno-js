@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2024-02-08T08:49:45.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="UNq1Sv0jIG4SE3bEZztF" version="23.1.2" type="github">
+  <diagram name="Pagina-1" id="mZXMQtX6gheZJttHr5ru">
+    <mxGraphModel dx="1187" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_Zp_-E1R2I8e5gmvnSHG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Zp_-E1R2I8e5gmvnSHG-8" target="_Zp_-E1R2I8e5gmvnSHG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Zp_-E1R2I8e5gmvnSHG-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;start&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_Zp_-E1R2I8e5gmvnSHG-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;einde&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_Zp_-E1R2I8e5gmvnSHG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Zp_-E1R2I8e5gmvnSHG-1" target="_Zp_-E1R2I8e5gmvnSHG-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="80" as="sourcePoint" />
+            <mxPoint x="420" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Zp_-E1R2I8e5gmvnSHG-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Haal kaarten uit de doos&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Zp_-E1R2I8e5gmvnSHG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Zp_-E1R2I8e5gmvnSHG-6" target="_Zp_-E1R2I8e5gmvnSHG-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="150" as="sourcePoint" />
+            <mxPoint x="420" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Zp_-E1R2I8e5gmvnSHG-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;kaarten schudden&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
