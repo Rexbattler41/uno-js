@@ -5,7 +5,80 @@
     border-radius: 20px;
     width: 110px;
     height: 170px;
-
-    background-image: url(./images/back.png);
     background-size: contain;
+}
+
+.color1{
+    background-color: blue;
+}
+
+.color2{
+    background-color: red;
+}
+
+.color3{
+    background-color: green;
+}
+
+.color4{
+    background-color: yellow;
+}
+.nr0{
+    background-image: url(images/nr0.png);
+}
+
+.nr1{
+    background-image: url(images/nr1.png);
+}
+
+.nr2{
+    background-image: url(images/nr2.png);
+}
+
+.nr3{
+    background-image: url(images/nr3.png);
+}
+
+.nr4{
+    background-image: url(images/nr4.png);
+}
+
+.nr5{
+    background-image: url(images/nr5.png);
+}
+
+.nr6{
+    background-image: url(images/nr6.png);
+}
+
+.nr7{
+    background-image: url(images/nr7.png);
+}
+
+.nr8{
+    background-image: url(images/nr8.png);
+}
+
+.nr9{
+    background-image: url(images/nr9.png);
+}
+
+.nr_plus2{
+    background-image: url(images/plus2.png);
+}
+
+.nr_reverse{
+    background-image: url(images/reverse.png);
+}
+
+.nr_skip{
+    background-image: url(images/skip.png);
+}
+
+.nr_plus4{
+    background-image: url(images/plus4.png);
+}
+
+.nr_joker{
+    background-image: url(images/joker.png);
 }
