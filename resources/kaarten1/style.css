@@ -1,0 +1,11 @@
+.card{
+    float: left;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 20px;
+    width: 110px;
+    height: 170px;
+
+    background-image: url(./images/back.png);
+    background-size: contain;
+}
