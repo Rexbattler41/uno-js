@@ -21,6 +21,16 @@ for (let index = 0; index < colors.length; index++){
 }
 
 shuffle(deck)
-for (let index = 0; index < deck.length; index++){
-    carddeck.innerHTML += deck[index]
+
+function grab_card(){
+    if (deck.length > 0){
+        shuffle(deck);
+        const Deck = deck.pop();
+        carddeck.innerHTML += Deck;
+    } else {
+        alert('Kaarten zijn op!');
+        this.remove();
+    }
 }
+
+grab.addEventListener('click', grab_card);
