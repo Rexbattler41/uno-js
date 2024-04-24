@@ -1,0 +1,75 @@
+.dobbelsteen{
+    display: inline-block;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    border-radius: 14px;
+}
+
+.color1{
+    background-color: tomato;
+}
+
+.color2{
+    background-color: deepskyblue;
+}
+
+.color3{
+    background-color: darkgreen;
+}
+
+.color4{
+    background-color: gold;
+}
+
+.side1 {
+    background-image: url(./images/dice-1.png);
+    background-size: contain;
+}
+
+.side2 {
+    background-image: url(./images/dice-2.png);
+    background-size: contain;
+}
+
+.side3 {
+    background-image: url(./images/dice-3.png);
+    background-size: contain;
+}
+
+.side4 {
+    background-image: url(./images/dice-4.png);
+    background-size: contain;
+}
+
+.side5 {
+    background-image: url(./images/dice-5.png);
+    background-size: contain;
+}
+
+.side6 {
+    background-image: url(./images/dice-6.png);
+    background-size: contain;
+}
+
+.dicebag, #dicepool{
+    margin: 5px;
+    padding: 5px;
+    display: block;
+}
+#dicebag1{
+    border: 2px solid green;
+}
+#dicebag2{
+    border: 2px solid red;
+}
+#dicebag3{
+    border: 2px solid blue;
+}
+#dicebag4{
+    border: 2px solid black;
+}
+#dicepool{
+    background-color: gray;
+}
