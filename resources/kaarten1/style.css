@@ -1,5 +1,5 @@
 .card{
-    float: left;
+    display: inline-block;
     margin: 10px;
     border: 5px solid black;
     border-radius: 20px;
@@ -81,4 +81,20 @@
 
 .nr_joker{
     background-image: url(images/joker.png);
+}
+
+#carddeck1{
+    border: 2px solid green;
+}
+#carddeck2{
+    border: 2px solid red;
+}
+#carddeck3{
+    border: 2px solid blue;
+}
+#carddeck4{
+    border: 2px solid black;
+}
+#cardpool{
+    background-color: gray;
 }
